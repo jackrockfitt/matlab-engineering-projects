@@ -1,3 +1,9 @@
+# MATLAB Engineering Projects
+
+This repository contains three MATLAB projects developed as part of a university engineering course. Each task demonstrates a different technical focus — from structural analysis to parametric animation and simulation of physical systems. The code is well-structured, fully commented, and written to reflect real-world engineering applications.
+
+---
+
 ## Task A – Stress Analysis in a Steel Structure
 
 This MATLAB script (`TaskA.m`) performs a detailed analysis of a 3D stress state in a steel structure. It calculates the following:
@@ -40,8 +46,8 @@ This MATLAB script animates the real-time motion of two particles along distinct
 - Clear use of **basic programming constructs**: variables, conditionals (`while`), and function calls
 
 > This task showcases how mathematical expressions can be transformed into dynamic visual simulations using MATLAB.
->
-> ---
+
+---
 
 ## Task C – Simulation of a Pendulum in a Hemispherical Basin
 
@@ -62,4 +68,3 @@ This MATLAB function simulates the vertical motion of a pendulum moving within a
 - Strong **code clarity** with full documentation and rational comments
 
 > This task highlights the ability to convert complex physical systems into working simulations using MATLAB's built-in tools and clear engineering logic.
-
