@@ -1,6 +1,6 @@
 ## Task A – Stress Analysis in a Steel Structure
 
-This MATLAB script (`stress_analysis.m`) performs a detailed analysis of a 3D stress state in a steel structure. It calculates the following:
+This MATLAB script (`TaskA.m`) performs a detailed analysis of a 3D stress state in a steel structure. It calculates the following:
 
 - **Stress invariants** (I1, I2, I3)
 - **Hydrostatic stress**
