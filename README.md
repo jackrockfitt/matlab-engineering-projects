@@ -1,6 +1,6 @@
 # MATLAB Engineering Projects
 
-This repository contains three MATLAB projects developed as part of a university engineering course. Each task demonstrates a different technical focus, from structural analysis to parametric animation and simulation of physical systems. The code is well-structured, fully commented, and written to reflect real-world engineering applications.
+This repository contains three MATLAB projects developed as part of a university engineering course. Each task demonstrates a different technical focus — from structural analysis to parametric animation and simulation of physical systems. The code is well-structured, fully commented, and written to reflect real-world engineering applications.
 
 ---
 
@@ -17,7 +17,7 @@ This MATLAB script (`TaskA.m`) performs a detailed analysis of a 3D stress state
 
 ### Key Concepts Demonstrated:
 - Use of **arrays/matrices** to represent the stress tensor
-- Use of **MATLAB functions** like `roots()` and `eig()` for principal stress and eigenvalue calculations
+- Use of MATLAB functions like `roots()` and `eig()` for principal stress and eigenvalue calculations
 - Application of **basic programming constructs**: variables, arithmetic, functions, and structured outputs
 - Clear **engineering rationale** and documentation throughout
 
@@ -68,3 +68,8 @@ This MATLAB function simulates the vertical motion of a pendulum moving within a
 - Strong **code clarity** with full documentation and rational comments
 
 > This task highlights the ability to convert complex physical systems into working simulations using MATLAB's built-in tools and clear engineering logic.
+
+### Example Usage:
+
+```matlab
+[t, x, z, dxdt, dzdt] = Hemisphere(5, 3, 10);
