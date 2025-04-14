@@ -1,6 +1,6 @@
 # MATLAB Engineering Projects
 
-This repository contains three MATLAB projects developed as part of a university engineering course. Each task demonstrates a different technical focus — from structural analysis to parametric animation and simulation of physical systems. The code is well-structured, fully commented, and written to reflect real-world engineering applications.
+This repository contains three MATLAB projects developed as part of a university engineering course. Each task demonstrates a different technical focus, from structural analysis to parametric animation and simulation of physical systems. The code is well-structured, fully commented, and written to reflect real-world engineering applications.
 
 ---
 
