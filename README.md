@@ -40,3 +40,26 @@ This MATLAB script animates the real-time motion of two particles along distinct
 - Clear use of **basic programming constructs**: variables, conditionals (`while`), and function calls
 
 > This task showcases how mathematical expressions can be transformed into dynamic visual simulations using MATLAB.
+>
+> ---
+
+## Task C – Simulation of a Pendulum in a Hemispherical Basin
+
+This MATLAB function simulates the vertical motion of a pendulum moving within a **frictionless hemispherical basin**, by solving the system's non-linear differential equations.
+
+### Features:
+- Validates user input for basin size (`R`), starting height (`h`), and time (`Tf`)
+- Derives initial conditions based on the hemisphere geometry
+- Uses MATLAB’s `ode45` solver to integrate the equations of motion
+- Plots the vertical displacement over time
+- Displays the small-angle oscillation period for comparison
+
+### Key Concepts Demonstrated:
+- Use of **custom function structure** with multiple inputs and outputs
+- Implementation of **ODE solving** with `ode45`
+- Application of **physics-based modelling** using gravitational and geometric relations
+- **Input validation** and structured **user feedback**
+- Strong **code clarity** with full documentation and rational comments
+
+> This task highlights the ability to convert complex physical systems into working simulations using MATLAB's built-in tools and clear engineering logic.
+
